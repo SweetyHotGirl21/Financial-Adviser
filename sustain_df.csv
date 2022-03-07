@@ -1,0 +1,449 @@
+,palmOil,controversialWeapons,gambling,socialScore,nuclear,furLeather,alcoholic,gmo,catholic,socialPercentile,peerCount,governanceScore,environmentPercentile,animalTesting,tobacco,totalEsg,highestControversy,esgPerformance,coal,pesticides,adult,percentile,peerGroup,smallArms,environmentScore,governancePercentile,militaryContract
+MMM,False,False,False,13.6,False,False,False,False,False,0,35,8.08,0,True,False,34.88,3,LEAD_PERF,False,False,False,75.51,Industrial Conglomerates,False,13.2,0,False
+ABT,False,False,False,13.54,False,False,False,False,True,,55,9.39,,True,False,25.96,3,AVG_PERF,False,False,False,44.64,Healthcare,False,3.03,,False
+ABBV,False,False,False,16.64,False,False,False,False,True,,83,10.1,,True,False,27.38,3,AVG_PERF,False,False,False,49.74,Pharmaceuticals,False,0.65,,False
+ACN,False,False,False,5.37,False,False,False,False,False,,99,5.49,,False,False,11.41,2,UNDER_PERF,False,False,False,3.1,Software & Services,False,0.55,,False
+ATVI,False,False,False,9.84,False,False,False,False,False,,103,6.15,,False,False,16.15,2,UNDER_PERF,False,False,False,10.62,Software & Services,False,0.15,,False
+ADBE,False,False,False,5.65,False,False,False,False,False,,99,4.64,,False,False,10.78,1,UNDER_PERF,False,False,False,2.49,Software & Services,False,0.48,,False
+AAP,False,False,False,9.14,False,False,False,False,False,,57,3.33,,False,False,12.58,2,UNDER_PERF,False,False,False,4.49,Retailing,False,0.1,,False
+AES,False,False,False,8.31,False,False,False,False,False,,103,5.95,,False,False,35.05,2,OUT_PERF,True,False,False,75.96,Utilities,False,20.79,,False
+AFL,False,False,False,7.86,False,False,False,False,False,,91,12.64,,False,False,22.96,2,AVG_PERF,False,False,False,33.23,Insurance,False,2.46,,False
+A,False,False,False,9.44,False,False,False,False,True,,83,6.26,,True,False,16.57,2,UNDER_PERF,False,False,False,12.8,Pharmaceuticals,False,0.87,,False
+APD,False,False,False,1.43,False,False,False,False,False,,78,3.65,,False,False,11.18,1,UNDER_PERF,False,False,False,2.44,Chemicals,False,6.09,,False
+AKAM,False,False,False,10.35,False,False,False,False,False,,99,7.88,,False,False,20.16,1,AVG_PERF,False,False,False,23.48,Software & Services,False,1.93,,False
+ALB,False,False,False,9.21,False,False,False,False,False,,73,8.9,,True,False,37.21,1,OUT_PERF,False,False,False,81.54,Chemicals,False,19.09,,False
+ARE,False,False,False,6.27,False,False,False,False,False,,105,5.9,,False,False,15.15,0,UNDER_PERF,False,False,False,9.33,Real Estate,False,2.98,,False
+ALLE,False,False,False,4.23,False,False,False,False,False,,14,6.59,,False,False,23.15,0,AVG_PERF,False,False,False,33.9,Building Products,False,12.34,,False
+LNT,False,False,False,5.65,False,False,False,False,False,,103,6.67,,False,False,22.36,1,AVG_PERF,True,False,False,30.92,Utilities,False,10.04,,False
+ALL,False,False,False,7.7,False,False,False,False,False,,98,11.17,,False,False,20.61,2,AVG_PERF,False,False,False,23.71,Insurance,False,1.74,,False
+GOOGL,False,False,False,10.79,False,False,False,False,False,,99,11.62,,False,False,22.89,4,AVG_PERF,False,False,False,32.95,Software & Services,False,0.48,,False
+MO,False,False,False,12.98,False,False,False,False,False,,92,6.76,,True,True,24.4,2,AVG_PERF,False,False,False,38.57,Food Products,False,4.66,,False
+AMZN,False,False,False,14.58,False,False,False,False,False,,57,9.66,,False,False,30.93,3,OUT_PERF,False,False,False,62.88,Retailing,False,6.7,,False
+AEE,False,False,False,7.86,True,False,False,False,False,,103,5.55,,False,False,29.14,2,AVG_PERF,True,False,False,56.49,Utilities,False,15.73,,False
+AAL,False,False,False,12.65,False,False,False,False,False,,41,5.4,,False,False,29.81,2,AVG_PERF,False,False,False,58.73,Transportation,False,11.76,,False
+AEP,False,False,False,9.83,True,False,False,False,False,,107,5.28,,False,False,35.14,2,OUT_PERF,True,False,False,74.76,Utilities,False,20.02,,False
+AXP,False,False,False,11.24,False,False,False,False,False,,85,8.51,,False,False,19.81,2,UNDER_PERF,False,False,False,22.31,Diversified Financials,False,0.05,,False
+AIG,False,False,False,10.81,False,False,False,False,False,,91,14.71,,False,False,27.39,2,AVG_PERF,False,False,False,49.76,Insurance,False,1.87,,False
+AMT,False,False,False,3.78,False,False,False,False,False,,105,4.81,,False,False,12.33,0,UNDER_PERF,False,False,False,4.16,Real Estate,False,3.73,,False
+AWK,False,False,False,9.33,False,False,False,False,False,,103,5.27,,False,False,27.66,2,AVG_PERF,False,False,False,50.91,Utilities,False,13.06,,False
+AMP,False,False,False,7.54,False,False,False,False,False,,85,12.29,,False,False,22.63,2,AVG_PERF,False,False,False,31.94,Diversified Financials,False,2.8,,False
+ABC,False,False,False,6.35,False,False,False,False,False,,55,5.8,,False,False,13,3,UNDER_PERF,False,False,False,5.06,Healthcare,False,0.84,,False
+AME,False,False,False,9.95,False,False,False,False,False,,17,7.69,,False,False,25.95,1,AVG_PERF,False,False,False,44.61,Electrical Equipment,False,8.32,,True
+AMGN,False,False,False,13.09,False,False,False,False,True,,83,6.3,,True,False,19.42,2,UNDER_PERF,False,False,False,21.11,Pharmaceuticals,False,0.03,,False
+APH,False,False,False,5.52,False,False,False,False,False,,53,8.04,,False,False,21.6,2,AVG_PERF,False,False,False,28.12,Technology Hardware,False,8.04,,True
+ADI,False,False,False,7.53,False,False,False,False,False,,29,7.03,,False,False,23.82,0,AVG_PERF,False,False,False,36.23,Semiconductors,False,9.25,,True
+ANSS,False,False,False,8.96,False,False,False,False,False,,99,5.02,,False,False,15.12,0,UNDER_PERF,False,False,False,9.28,Software & Services,False,1.13,,False
+ANTM,False,False,False,5.98,False,False,False,False,False,,55,5.8,,False,False,11.81,2,UNDER_PERF,False,False,False,3.53,Healthcare,False,0.03,,False
+AOS,False,False,False,11.61,False,False,False,False,False,,53,6.47,,False,False,25.2,2,AVG_PERF,False,False,False,41.68,Machinery,False,7.12,,False
+APA,False,False,False,8.88,False,False,False,False,False,,71,7.96,,False,False,38.81,2,OUT_PERF,False,False,False,82.83,Oil & Gas Producers,False,21.98,,False
+AAPL,False,False,False,7.99,False,False,False,False,False,,53,8.64,,False,False,16.92,3,UNDER_PERF,False,False,False,13.68,Technology Hardware,False,0.29,,False
+AMAT,False,False,False,3.15,False,False,False,False,False,,29,4.97,,False,False,12.27,0,UNDER_PERF,False,False,False,4.09,Semiconductors,False,4.14,,False
+APTV,False,False,False,4.59,False,False,False,False,False,,24,5.15,,False,False,13.47,1,UNDER_PERF,False,False,False,5.99,Auto Components,False,3.73,,False
+ADM,False,False,False,13.51,False,False,False,False,False,,92,5.06,,True,False,34.48,3,OUT_PERF,False,False,False,74.38,Food Products,False,15.91,,False
+ANET,False,False,False,9.06,False,False,False,False,False,,53,8.43,,False,False,17.89,2,UNDER_PERF,False,False,False,16.63,Technology Hardware,False,0.4,,False
+AJG,False,False,False,9.09,False,False,False,False,False,,91,12.31,,False,False,21.53,2,AVG_PERF,False,False,False,27.95,Insurance,False,0.13,,False
+AIZ,False,False,False,10.1,False,False,False,False,False,,91,12.69,,False,False,24.44,3,AVG_PERF,False,False,False,38.71,Insurance,False,1.66,,False
+T,False,False,False,10.9,False,False,False,False,False,,66,6.38,,False,False,19.13,3,UNDER_PERF,False,False,False,20.21,Telecommunication Services,False,1.85,,False
+ATO,False,False,False,12.31,False,False,False,False,False,,103,6.67,,False,False,31.78,2,OUT_PERF,False,False,False,65.78,Utilities,False,12.8,,False
+ADSK,False,False,False,9.22,False,False,False,False,False,,99,4.87,,False,False,15.45,0,UNDER_PERF,False,False,False,10.03,Software & Services,False,1.37,,False
+ADP,False,False,False,7.18,False,False,False,False,False,,99,5.44,,False,False,13.68,1,UNDER_PERF,False,False,False,6.48,Software & Services,False,1.07,,False
+AZO,False,False,False,7.17,False,False,False,False,False,,57,3.78,,False,False,11,2,UNDER_PERF,False,False,False,2.65,Retailing,False,0.05,,False
+AVB,False,False,False,2.92,False,False,False,False,False,,105,4.4,,False,False,10.28,0,UNDER_PERF,False,False,False,2.1,Real Estate,False,2.95,,False
+AVY,False,False,False,1.93,False,False,False,False,False,,11,3.66,,False,False,17.68,1,UNDER_PERF,False,False,False,15.93,Containers & Packaging,False,12.09,,False
+BLL,False,False,False,1.27,False,False,False,False,False,,11,3.94,,False,False,13.83,1,UNDER_PERF,False,False,False,6.76,Containers & Packaging,False,8.62,,True
+BAC,False,False,False,13.93,False,False,False,False,False,,165,11.46,,False,False,27.01,3,AVG_PERF,False,False,False,48.4,Banks,False,1.62,,False
+BBWI,False,False,False,7.78,False,False,False,False,False,,57,5.87,,False,False,16.12,2,UNDER_PERF,False,False,False,11.61,Retailing,False,2.48,,False
+BAX,False,False,False,15.59,False,False,False,False,False,,55,9.02,,True,False,27.15,2,AVG_PERF,False,False,False,48.93,Healthcare,False,2.55,,False
+BDX,False,False,False,15.71,False,False,False,False,True,,55,9.47,,True,False,29.01,3,AVG_PERF,False,False,False,56.01,Healthcare,False,3.83,,False
+BBY,False,False,False,7.25,False,False,False,False,False,,57,4.85,,False,False,14.31,2,UNDER_PERF,False,False,False,7.75,Retailing,False,2.22,,False
+BIO,False,False,False,12.3,False,False,False,False,True,0,83,6.9,0,True,False,20.69,2,,False,False,False,25.2,Pharmaceuticals,False,1.49,0,False
+BIIB,False,False,False,13.44,False,False,False,False,True,0,83,7.85,0,True,False,21.3,2,,False,False,False,27.2,Pharmaceuticals,False,0.02,0,False
+BLK,False,False,False,9.7,False,False,False,False,False,0,85,10.08,0,False,False,21.26,2,,False,False,False,27.05,Diversified Financials,False,1.49,0,False
+BK,False,False,False,9.83,False,False,False,False,False,0,85,10.87,0,False,False,22.67,3,,False,False,False,32.08,Diversified Financials,False,1.97,0,False
+BA,False,True,False,19.72,False,False,False,False,False,0,22,8.22,0,False,False,36.09,4,LEAD_PERF,False,False,False,78.88,Aerospace & Defense,False,8.15,0,True
+BKNG,False,False,False,9.68,False,False,False,False,False,0,57,6.24,0,False,False,19.8,2,LAG_PERF,False,False,False,22.27,Retailing,False,3.88,0,False
+BWA,False,False,False,4.33,False,False,False,False,False,0,24,6.52,0,False,False,13.44,2,LAG_PERF,False,False,False,5.91,Auto Components,False,2.6,0,False
+BXP,False,False,False,4.95,False,False,False,False,False,0,105,5.11,0,False,False,13.57,1,LAG_PERF,False,False,False,6.26,Real Estate,False,3.51,0,False
+BSX,False,False,False,15.36,False,False,False,False,False,0,60,10.48,0,True,False,28.83,2,,False,False,False,53.67,Healthcare,False,2.99,0,False
+BMY,False,False,False,15.2,False,False,False,False,True,0,83,7.76,0,True,False,22.99,2,,False,False,False,33.31,Pharmaceuticals,False,0.03,0,False
+AVGO,False,False,False,8.66,False,False,False,False,False,0,29,7.8,0,False,False,25.42,3,,False,False,False,42.43,Semiconductors,False,8.96,0,False
+BR,False,False,False,9.01,False,False,False,False,False,0,99,6.62,0,False,False,16.45,2,LAG_PERF,False,False,False,12.46,Software & Services,False,0.82,0,False
+BRO,False,False,False,10.89,False,False,False,False,False,0,91,12.82,0,False,False,23.89,1,,False,False,False,36.55,Insurance,False,0.18,0,False
+CHRW,False,False,False,9.49,False,False,False,False,False,0,41,5.82,0,False,False,20.02,1,,False,False,False,23.01,Transportation,False,4.71,0,False
+CDNS,False,False,False,7.35,False,False,False,False,False,0,99,4.73,0,False,False,13.13,0,LAG_PERF,False,False,False,5.37,Software & Services,False,1.06,0,False
+CPB,False,False,False,7.92,False,False,False,False,False,0,92,4.6,0,False,False,22.45,2,,False,False,False,31.28,Food Products,False,9.93,0,False
+COF,False,False,False,13.46,False,False,False,False,False,0,85,9.71,0,False,False,23.22,4,,False,False,False,34.1,Diversified Financials,False,0.05,0,False
+CAH,False,False,False,5.37,False,False,False,False,False,0,55,4.44,0,True,False,11.81,3,LAG_PERF,False,False,False,3.52,Healthcare,False,1.99,0,False
+KMX,False,False,False,7.92,False,False,False,False,False,0,57,4.04,0,False,False,12.03,1,LAG_PERF,False,False,False,3.79,Retailing,False,0.08,0,False
+CCL,False,False,False,9.72,False,False,False,False,False,0,42,3.86,0,False,False,23.89,3,,False,False,False,36.52,Consumer Services,False,10.31,0,False
+CAT,False,False,False,18.47,False,False,False,False,False,0,53,8.62,0,False,False,34.28,4,LEAD_PERF,False,False,False,73.85,Machinery,False,7.18,0,False
+CBOE,False,False,False,7.21,False,False,False,False,False,0,85,9.06,0,False,False,18.87,2,LAG_PERF,False,False,False,19.4,Diversified Financials,False,2.59,0,False
+CBRE,False,False,False,2.48,False,False,False,False,False,0,105,3.24,0,False,False,6.99,1,,False,False,False,1.17,Real Estate,False,1.27,0,False
+CDW,False,False,False,3.29,False,False,False,False,False,0,53,3.45,0,False,False,9.14,0,,False,False,False,1.58,Technology Hardware,False,2.4,0,False
+CE,False,False,False,7.71,False,False,False,False,False,0,73,7.47,0,True,False,30.6,2,LEAD_PERF,False,False,False,61.65,Chemicals,False,15.42,0,False
+CNC,False,False,False,15.62,False,False,False,False,True,0,55,6.71,0,False,False,22.47,2,,False,False,False,31.41,Healthcare,False,0.14,0,False
+CNP,False,False,False,11.85,False,False,False,False,False,0,103,5.88,0,False,False,35.42,2,LEAD_PERF,True,False,False,77.07,Utilities,False,17.69,0,False
+CERN,False,False,False,12.89,False,False,False,False,False,0,55,6.78,0,False,False,19.8,2,LAG_PERF,False,False,False,22.27,Healthcare,False,0.14,0,False
+CF,False,False,False,9.2,False,False,False,False,False,0,73,5.14,0,False,False,32.96,2,LEAD_PERF,False,False,False,69.68,Chemicals,False,18.62,0,False
+SCHW,False,False,False,10.16,False,False,False,False,False,0,85,11.93,0,False,False,24.41,2,,False,False,False,38.6,Diversified Financials,False,2.33,0,False
+CHTR,False,False,False,13.1,False,False,False,False,False,0,66,7.58,0,False,False,26.25,2,,False,False,False,45.8,Telecommunication Services,False,5.57,0,False
+CVX,False,False,False,10.67,False,False,False,False,False,0,64,10.21,0,True,False,41.16,3,,False,False,False,88.39,Oil & Gas Producers,False,20.29,0,False
+CMG,False,False,False,14.05,False,False,False,False,False,0,42,5.31,0,False,False,24.23,3,,False,False,False,37.91,Consumer Services,False,4.88,0,False
+CB,False,False,False,11.23,False,False,False,False,False,0,91,11.01,0,False,False,23.86,2,,False,False,False,36.41,Insurance,False,1.62,0,False
+CHD,False,False,False,8,False,False,False,False,True,0,27,6.96,0,True,False,22.47,2,,False,False,False,31.4,Household Products,False,7.5,0,False
+CI,False,False,False,5.99,False,False,False,False,False,0,61,5.65,0,False,False,11.65,2,LAG_PERF,False,False,False,2.83,Healthcare,False,0.02,0,False
+CINF,False,False,False,8.51,False,False,False,False,False,0,91,13.85,0,False,False,24.24,1,,False,False,False,37.95,Insurance,False,1.88,0,False
+CTAS,False,False,False,9.61,False,False,False,False,False,0,31,7.06,0,False,False,21.21,2,,False,False,False,26.89,Commercial Services,False,4.54,0,False
+CSCO,False,False,False,5.56,False,False,False,False,False,0,53,5.83,0,False,False,11.42,2,LAG_PERF,False,False,False,3.12,Technology Hardware,False,0.03,0,False
+C,False,False,False,10.83,False,False,False,False,False,0,165,12.64,0,False,False,25.21,4,,False,False,False,41.69,Banks,False,1.75,0,False
+CFG,False,False,False,10.18,False,False,False,False,False,0,165,10.15,0,False,False,22.21,2,,False,False,False,30.37,Banks,False,1.88,0,False
+CTXS,False,False,False,7.97,False,False,False,False,False,0,99,5.92,0,False,False,14.57,2,LAG_PERF,False,False,False,8.21,Software & Services,False,0.68,0,False
+CLX,False,False,False,8.5,False,False,False,False,False,0,27,5.78,0,True,False,22,2,,False,False,False,29.6,Household Products,False,7.72,0,False
+CME,False,False,False,6.21,False,False,False,False,False,0,85,6.21,0,False,False,14.55,1,LAG_PERF,False,False,False,8.17,Diversified Financials,False,2.13,0,False
+CMS,False,False,False,6.95,True,False,False,False,False,0,103,5.14,0,False,False,23.89,2,,True,False,False,36.54,Utilities,False,11.81,0,False
+KO,False,False,False,10.81,False,False,False,False,False,0,92,4.94,0,False,False,24.76,3,,False,False,False,39.92,Food Products,False,9,0,False
+CTSH,False,False,False,10.43,False,False,False,False,False,0,103,6.2,0,False,False,17.74,2,LAG_PERF,False,False,False,14.92,Software & Services,False,1.11,0,False
+CL,False,False,False,8.81,False,False,False,False,False,0,27,5.3,0,True,False,20.75,3,,False,False,False,25.36,Household Products,False,6.64,0,False
+CMCSA,False,False,False,12.11,False,False,False,False,False,0,66,7.92,0,False,False,24.59,2,,False,False,False,39.25,Telecommunication Services,False,4.56,0,False
+CMA,False,False,False,13.13,False,False,False,False,False,0,165,12.21,0,False,False,27.03,2,,False,False,False,48.52,Banks,False,1.69,0,False
+CAG,False,False,False,16.45,False,False,False,False,False,0,92,4.68,0,False,False,32.83,2,LEAD_PERF,False,False,False,69.2,Food Products,False,11.7,0,False
+COP,False,False,False,9.83,False,False,False,False,False,0,64,7.2,0,False,False,35.98,2,LEAD_PERF,False,False,False,78.55,Oil & Gas Producers,False,18.96,0,False
+ED,False,False,False,13.51,False,False,False,False,False,0,103,6.51,0,False,False,25.06,3,,False,False,False,41.04,Utilities,False,5.04,0,False
+STZ,False,False,False,9.34,False,False,True,False,False,0,95,4.97,0,False,False,23.45,2,,False,False,False,33.56,Food Products,False,9.14,0,False
+COO,False,False,False,10.73,False,False,False,False,True,0,55,7.01,0,True,False,20.84,2,,False,False,False,25.73,Healthcare,False,3.1,0,False
+CPRT,False,False,False,11.76,False,False,False,False,False,0,31,6.82,0,False,False,22.71,1,,False,False,False,32.22,Commercial Services,False,4.13,0,False
+GLW,False,False,False,5.2,False,False,False,False,True,0,53,6.89,0,False,False,20,2,LAG_PERF,False,False,False,22.91,Technology Hardware,False,7.91,0,False
+COST,False,False,False,11.02,False,False,False,False,False,0,33,6.11,0,False,False,23.2,3,,False,False,False,34.05,Food Retailers,False,6.07,0,False
+CTRA,False,False,False,14.01,False,False,False,False,False,0,64,9.28,0,False,False,46.68,2,,False,False,False,95.21,Oil & Gas Producers,False,23.39,0,False
+CCI,False,False,False,2.92,False,False,False,False,False,0,108,5.09,0,False,False,13.22,0,LAG_PERF,False,False,False,4.84,Real Estate,False,5.21,0,False
+CSX,False,False,False,8.99,False,False,False,False,False,0,41,3.62,0,False,False,18.37,3,LAG_PERF,False,False,False,18,Transportation,False,5.75,0,False
+CMI,False,False,False,7.5,False,False,False,False,False,0,53,6.06,0,False,False,19.36,2,LAG_PERF,False,False,False,20.88,Machinery,False,5.8,0,True
+CVS,False,False,False,16.39,False,False,False,False,False,0,55,6.44,0,False,False,22.86,3,,False,False,False,32.86,Healthcare,False,0.03,0,False
+DHI,False,False,False,7.19,False,False,False,False,False,0,9,6.02,0,False,False,22.55,2,,False,False,False,31.66,Homebuilders,False,9.34,0,False
+DHR,False,False,False,9.76,False,False,False,False,True,0,83,6.59,0,True,False,17.73,2,LAG_PERF,False,False,False,16.12,Pharmaceuticals,False,1.38,0,False
+DRI,False,False,False,13.34,False,False,False,False,False,0,42,4.73,0,False,False,26.21,2,,False,False,False,45.59,Consumer Services,False,8.15,0,False
+DVA,False,False,False,12.53,False,False,False,False,False,0,55,8.87,0,True,False,21.48,2,,False,False,False,27.79,Healthcare,False,0.09,0,False
+DE,False,False,False,9.24,False,False,False,False,False,0,54,3.7,0,False,False,16.72,2,LAG_PERF,False,False,False,12.1,Machinery,False,3.78,0,False
+DAL,False,False,False,11.83,False,False,False,False,False,0,41,5.15,0,False,False,26.46,2,,False,False,False,46.54,Transportation,False,9.48,0,False
+XRAY,False,False,False,10.42,False,False,False,False,False,0,55,6.51,0,True,False,20.07,1,,False,False,False,23.17,Healthcare,False,3.15,0,False
+DVN,False,False,False,8.32,False,False,False,False,False,0,64,7.74,0,False,False,31.67,2,LEAD_PERF,False,False,False,65.35,Oil & Gas Producers,False,15.61,0,False
+DXCM,False,False,False,13.04,False,False,False,False,False,0,55,8.34,0,True,False,27.32,2,,False,False,False,49.5,Healthcare,False,5.93,0,False
+DLR,False,False,False,3.81,False,False,False,False,False,0,105,6.1,0,False,False,13.13,1,LAG_PERF,False,False,False,5.34,Real Estate,False,3.23,0,False
+DFS,False,False,False,10.98,False,False,False,False,False,0,85,9.83,0,False,False,20.91,1,,False,False,False,25.96,Diversified Financials,False,0.11,0,False
+DISCA,False,False,False,8.83,False,False,False,False,False,0,36,8.26,0,False,False,17.22,1,LAG_PERF,False,False,False,14.52,Media,False,0.13,0,False
+DISH,False,False,False,11.47,False,False,False,False,False,0,36,9.78,0,False,False,22.87,3,,False,False,False,32.87,Media,False,1.62,0,False
+DG,False,False,False,8.48,False,False,False,False,False,0,57,5.15,0,False,False,16.88,2,LAG_PERF,False,False,False,13.6,Retailing,False,3.25,0,False
+DLTR,False,False,False,8.55,False,False,False,False,False,0,57,5.61,0,False,False,17.56,2,LAG_PERF,False,False,False,15.44,Retailing,False,3.4,0,False
+D,False,False,False,8.96,True,False,False,False,False,0,103,6.27,0,False,False,28.24,2,,True,False,False,52.97,Utilities,False,13.01,0,False
+DPZ,False,False,False,14.98,False,False,False,False,False,0,42,6.81,0,False,False,26.86,2,,False,False,False,47.93,Consumer Services,False,5.07,0,False
+DOV,False,False,False,14.14,False,False,False,False,False,0,53,6.44,0,False,False,28.37,1,,False,False,False,53.45,Machinery,False,7.79,0,False
+DTE,False,False,False,6.93,True,False,False,False,False,0,103,5.03,0,False,False,25.37,2,,True,False,False,42.3,Utilities,False,13.41,0,False
+DUK,False,False,False,8.49,True,False,False,False,False,0,103,4.94,0,False,False,28.5,3,,True,False,False,54,Utilities,False,15.06,0,False
+DRE,False,False,False,3.92,False,False,False,False,False,0,105,4.84,0,False,False,13.37,0,LAG_PERF,False,False,False,5.81,Real Estate,False,4.61,0,False
+DD,False,False,False,9.13,False,False,False,False,False,0,73,7.39,0,True,False,30.04,3,LEAD_PERF,False,False,False,59.73,Chemicals,False,13.52,0,False
+DXC,False,False,False,7.16,False,False,False,False,False,0,99,5.61,0,False,False,13.92,2,LAG_PERF,False,False,False,6.94,Software & Services,False,1.16,0,False
+EMN,False,False,False,5.34,False,False,False,False,False,0,73,7.81,0,True,False,24.66,2,,False,False,False,39.56,Chemicals,False,11.51,0,False
+ETN,False,False,False,6.63,False,False,False,False,False,0,19,5.51,0,False,False,17.01,1,LAG_PERF,False,False,False,12.87,Electrical Equipment,False,4.87,0,True
+EBAY,False,False,False,9.33,False,False,False,False,False,0,99,6.45,0,False,False,16.71,2,LAG_PERF,False,False,False,13.17,Software & Services,False,0.93,0,False
+ECL,False,False,False,8.44,False,False,False,False,False,0,73,6.17,0,True,False,24.09,2,,False,False,False,37.44,Chemicals,False,9.48,0,False
+EIX,False,False,False,10.57,True,False,False,False,False,0,103,6.36,0,False,False,27.26,3,,False,False,False,49.31,Utilities,False,10.32,0,False
+EW,False,False,False,8.96,False,False,False,False,False,0,55,7.65,0,True,False,19.04,2,LAG_PERF,False,False,False,19.92,Healthcare,False,2.43,0,False
+EA,False,False,False,7.36,False,False,False,False,False,0,99,5,0,False,False,12.49,2,LAG_PERF,False,False,False,4.36,Software & Services,False,0.13,0,False
+EMR,False,False,False,14.25,False,False,False,False,False,0,53,6.87,0,False,False,30.99,2,LEAD_PERF,False,False,False,63.1,Machinery,False,9.87,0,False
+ETR,False,False,False,8.48,True,False,False,False,False,0,103,6.52,0,False,False,33.54,2,LEAD_PERF,True,False,False,71.56,Utilities,False,18.54,0,False
+EOG,False,False,False,11.06,False,False,False,False,False,0,64,8.24,0,False,False,38.97,1,LEAD_PERF,False,False,False,84.67,Oil & Gas Producers,False,19.67,0,False
+EFX,False,False,False,17.29,False,False,False,False,False,0,31,7.01,0,False,False,24.44,4,,False,False,False,38.7,Commercial Services,False,0.14,0,False
+EQIX,False,False,False,5.67,False,False,False,False,False,0,105,5.7,0,False,False,14.62,1,LAG_PERF,False,False,False,8.35,Real Estate,False,3.25,0,False
+EQR,False,False,False,2.89,False,False,False,False,False,0,105,5.14,0,False,False,10.97,0,LAG_PERF,False,False,False,2.61,Real Estate,False,2.94,0,False
+ESS,False,False,False,3.48,False,False,False,False,False,0,105,5.82,0,False,False,13.19,0,LAG_PERF,False,False,False,5.47,Real Estate,False,3.9,0,False
+EL,False,False,False,9.32,False,False,False,False,False,0,29,8.05,0,True,False,24.28,2,,False,False,False,36.69,Household Products,False,6.9,0,False
+ES,False,False,False,9.65,False,False,False,False,False,0,103,6.14,0,False,False,21.79,2,,False,False,False,28.79,Utilities,False,6,0,False
+RE,False,False,False,7.04,False,False,False,False,False,0,91,10.16,0,False,False,18.16,1,LAG_PERF,False,False,False,17.35,Insurance,False,0.96,0,False
+EXC,False,False,False,8.86,True,False,False,False,False,0,107,6.62,0,False,False,25.36,3,,False,False,False,40.78,Utilities,False,9.88,0,False
+EXPE,False,False,False,14.42,False,False,False,False,False,0,99,9.42,0,False,False,25.95,2,,False,False,False,44.57,Software & Services,False,2.11,0,False
+EXPD,False,False,False,9.23,False,False,False,False,False,0,41,5.28,0,False,False,18.57,0,LAG_PERF,False,False,False,18.61,Transportation,False,4.05,0,False
+EXR,False,False,False,4.14,False,False,False,False,False,0,105,5.64,0,False,False,13.78,1,LAG_PERF,False,False,False,6.67,Real Estate,False,4,0,False
+XOM,False,False,False,10.57,False,False,False,False,False,0,64,8.26,0,False,False,35.77,3,LEAD_PERF,False,False,False,77.93,Oil & Gas Producers,False,16.94,0,False
+FFIV,False,False,False,12.49,False,False,False,False,False,0,99,5.4,0,False,False,19.16,1,LAG_PERF,False,False,False,20.31,Software & Services,False,1.26,0,False
+FAST,False,False,False,8.66,False,False,False,False,False,0,17,7.05,0,False,False,24.62,2,,False,False,False,39.37,Traders & Distributors,False,8.91,0,False
+FRT,False,False,False,4.34,False,False,False,False,False,0,105,5.82,0,False,False,12.42,1,LAG_PERF,False,False,False,4.3,Real Estate,False,2.27,0,False
+FDX,False,False,False,9.97,False,False,False,False,False,0,41,5.9,0,False,False,20.94,2,,False,False,False,26.05,Transportation,False,5.07,0,False
+FIS,False,False,False,11.14,False,False,False,False,False,0,99,5.83,0,False,False,18.23,1,LAG_PERF,False,False,False,17.58,Software & Services,False,1.27,0,False
+FITB,False,False,False,8.19,False,False,False,False,False,0,165,9.23,0,False,False,18.65,2,LAG_PERF,False,False,False,18.82,Banks,False,1.23,0,False
+FE,False,False,False,9.83,False,False,False,False,False,0,103,7.29,0,False,False,34.51,3,LEAD_PERF,True,False,False,74.49,Utilities,False,17.39,0,False
+FRC,False,False,False,11.64,False,False,False,False,False,0,165,11.73,0,False,False,25.26,1,,False,False,False,41.82,Banks,False,1.88,0,False
+FISV,False,False,False,10.73,False,False,False,False,False,0,99,6.41,0,False,False,18.34,2,LAG_PERF,False,False,False,17.87,Software & Services,False,1.19,0,False
+FLT,False,False,False,10.12,False,False,False,False,False,0,99,6.52,0,False,False,17.71,2,LAG_PERF,False,False,False,16.04,Software & Services,False,1.07,0,False
+FMC,False,False,False,13.54,False,False,False,False,False,0,73,7.25,0,True,False,38.66,2,LEAD_PERF,False,True,False,84.24,Chemicals,False,17.86,0,False
+F,False,False,False,12.18,False,False,False,False,False,0,37,9.62,0,False,False,31.19,3,LEAD_PERF,False,False,False,63.8,Automobiles,False,9.39,0,False
+FTNT,False,False,False,12.13,False,False,False,False,False,0,99,6.17,0,False,False,19.53,2,LAG_PERF,False,False,False,21.46,Software & Services,False,1.23,0,False
+FTV,False,False,False,14.18,False,False,False,False,False,0,35,5.53,0,False,False,35.35,2,LEAD_PERF,False,False,False,76.59,Industrial Conglomerates,False,15.63,0,False
+FBHS,False,False,False,3.66,False,False,False,False,False,0,14,7.34,0,False,False,24.9,0,,False,False,False,40.45,Building Products,False,13.9,0,False
+BEN,False,False,False,9.27,False,False,False,False,False,0,85,8.74,0,False,False,19.18,2,LAG_PERF,False,False,False,20.35,Diversified Financials,False,1.16,0,False
+FCX,False,False,False,10.54,False,False,False,False,False,0,26,4.88,0,False,False,33.92,4,LEAD_PERF,False,False,False,72.7,Diversified Metals,False,18.5,0,False
+GPS,False,False,False,8.24,False,False,False,False,False,0,57,5.91,0,False,False,15.28,3,LAG_PERF,False,False,False,9.63,Retailing,False,1.13,0,False
+GRMN,False,False,False,8.84,False,False,False,False,False,0,19,4.66,0,False,False,19.37,2,LAG_PERF,False,False,False,20.93,Consumer Durables,False,5.87,0,False
+IT,False,False,False,17.12,False,False,False,False,False,0,31,6.28,0,False,False,23.51,1,,False,False,False,35.22,Commercial Services,False,0.11,0,False
+GD,False,True,False,19.5,False,False,False,False,False,0,22,7.9,0,True,False,36.72,3,LEAD_PERF,False,False,False,80.53,Aerospace & Defense,True,9.32,0,True
+GE,False,False,False,15.72,False,False,False,False,True,0,35,11.98,0,True,False,43.35,3,,False,False,False,91.5,Industrial Conglomerates,False,15.65,0,True
+GIS,False,False,False,9.04,False,False,False,False,False,0,95,4.15,0,True,False,21.28,2,,False,False,False,25.87,Food Products,False,8.09,0,False
+GM,False,False,False,12.56,False,False,False,False,False,0,37,7.67,0,False,False,30.51,4,LEAD_PERF,False,False,False,61.37,Automobiles,False,10.28,0,False
+GPC,False,False,False,5.07,False,False,False,False,False,0,57,3.88,0,False,False,12.64,2,LAG_PERF,False,False,False,4.57,Retailing,False,3.68,0,False
+GILD,False,False,False,14.04,False,False,False,False,False,0,83,8.17,0,True,False,22.24,2,,False,False,False,30.47,Pharmaceuticals,False,0.03,0,False
+GL,False,False,False,7.92,False,False,False,False,False,0,91,11.37,0,False,False,20.85,1,,False,False,False,25.76,Insurance,False,1.56,0,False
+GPN,False,False,False,10.98,False,False,False,False,False,0,99,7.05,0,False,False,19.29,2,LAG_PERF,False,False,False,20.67,Software & Services,False,1.25,0,False
+GS,False,False,False,13.05,False,False,False,False,False,0,85,10.68,0,False,False,24.98,3,,False,False,False,40.7,Diversified Financials,False,1.25,0,False
+GWW,False,False,False,5.57,False,False,False,False,False,0,17,6.05,0,False,False,14.9,1,LAG_PERF,False,False,False,8.87,Traders & Distributors,False,3.28,0,False
+HAL,False,False,False,9.62,False,False,False,False,False,0,10,6.65,0,False,False,24.07,2,,False,False,False,37.3,Energy Services,False,7.8,0,False
+HBI,False,False,False,7.38,False,False,False,False,False,0,18,5.46,0,False,False,14.17,2,LAG_PERF,False,False,False,7.43,Textiles & Apparel,False,1.33,0,False
+HIG,False,False,False,7.31,False,False,False,False,False,0,91,9.44,0,False,False,18.4,2,LAG_PERF,False,False,False,18.06,Insurance,False,1.65,0,False
+HAS,False,False,False,5.33,False,False,False,False,False,0,19,5.07,0,False,False,10.44,2,LAG_PERF,False,False,False,2.23,Consumer Durables,False,0.05,0,False
+HCA,False,False,False,15.52,False,False,False,False,True,0,60,7.44,0,False,False,26.26,2,,False,False,False,44.24,Healthcare,False,3.29,0,False
+PEAK,False,False,False,3.03,False,False,False,False,True,0,105,4.43,0,False,False,10.8,2,LAG_PERF,False,False,False,2.51,Real Estate,False,3.34,0,False
+HSIC,False,False,False,5.59,False,False,False,False,False,0,55,5.55,0,False,False,13.28,2,LAG_PERF,False,False,False,5.7,Healthcare,False,2.14,0,False
+HSY,False,False,False,10.09,False,False,False,False,False,0,92,5.11,0,False,False,25.75,3,,False,False,False,43.75,Food Products,False,10.54,0,False
+HES,False,False,False,6.36,False,False,False,False,False,0,64,7.15,0,False,False,29.7,2,,False,False,False,58.43,Oil & Gas Producers,False,16.18,0,False
+HPE,False,False,False,4.92,False,False,False,False,False,0,53,6.46,0,False,False,12.14,2,LAG_PERF,False,False,False,3.89,Technology Hardware,False,0.76,0,False
+HLT,False,False,False,8.13,False,False,False,False,False,0,42,3.88,0,False,False,19.95,2,LAG_PERF,False,False,False,22.75,Consumer Services,False,7.94,0,False
+HOLX,False,False,False,14.28,False,False,False,False,False,0,55,11.72,0,True,False,30.45,2,LEAD_PERF,False,False,False,61.13,Healthcare,False,4.45,0,False
+HD,False,False,False,4.85,False,False,False,False,False,0,57,3.52,0,False,False,11.45,2,LAG_PERF,False,False,False,3.15,Retailing,False,3.07,0,False
+HON,False,True,False,12.1,False,False,False,False,False,0,35,8.59,0,False,False,30.7,3,LEAD_PERF,False,False,False,62.08,Industrial Conglomerates,False,10.02,0,True
+HRL,False,False,False,10.96,False,False,False,False,False,0,92,6.07,0,False,False,28.65,3,,False,False,False,54.53,Food Products,False,11.62,0,False
+HST,False,False,False,5.79,False,False,False,False,False,0,105,4.89,0,False,False,14.41,1,LAG_PERF,False,False,False,7.92,Real Estate,False,3.74,0,False
+HPQ,False,False,False,5.03,False,False,False,False,False,0,53,5.15,0,True,False,10.29,2,LAG_PERF,False,False,False,2.12,Technology Hardware,False,0.11,0,False
+HUM,False,False,False,17.13,False,False,False,False,False,0,60,5.42,0,False,False,22.65,2,,False,False,False,30.68,Healthcare,False,0.1,0,False
+HBAN,False,False,False,11.31,False,False,False,False,False,0,165,7.99,0,False,False,21.36,2,,False,False,False,27.39,Banks,False,2.05,0,False
+IEX,False,False,False,13,False,False,False,False,False,0,53,6,0,False,False,27.1,0,,False,False,False,48.7,Machinery,False,8.1,0,False
+IDXX,False,False,False,7.12,False,False,False,False,False,0,55,10.02,0,True,False,20.74,0,,False,False,False,25.33,Healthcare,False,3.6,0,False
+INFO,False,False,False,15.92,False,False,False,False,False,0,31,7.56,0,False,False,23.52,1,,False,False,False,35.27,Commercial Services,False,0.05,0,False
+ITW,False,False,False,9.17,False,False,False,False,False,0,53,6.38,0,False,False,19.94,2,LAG_PERF,False,False,False,22.72,Machinery,False,4.38,0,False
+ILMN,False,False,False,3.6,False,False,False,False,True,0,83,6.63,0,True,False,11.45,3,LAG_PERF,False,False,False,3.15,Pharmaceuticals,False,1.22,0,False
+INCY,False,False,False,18.26,False,False,False,False,False,0,83,7.64,0,True,False,26.01,1,,False,False,False,44.97,Pharmaceuticals,False,0.11,0,False
+INTC,False,False,False,6.06,False,False,False,False,False,0,29,7.05,0,False,False,16.96,3,LAG_PERF,False,False,False,13.78,Semiconductors,False,3.84,0,False
+ICE,False,False,False,6.76,False,False,False,False,False,0,94,7.42,0,False,False,15.71,3,LAG_PERF,False,False,False,9.72,Diversified Financials,False,1.53,0,False
+IBM,False,False,False,6.67,False,False,False,False,False,0,99,7.46,0,False,False,14.59,2,LAG_PERF,False,False,False,8.24,Software & Services,False,0.47,0,False
+IP,False,False,False,4.79,False,False,False,False,False,0,9,5.19,0,False,False,24.8,3,,False,False,False,40.05,Paper & Forestry,False,14.82,0,False
+IPG,False,False,False,9.32,False,False,False,False,False,0,36,6.11,0,False,False,15.49,2,LAG_PERF,False,False,False,10.12,Media,False,0.05,0,False
+IFF,False,False,False,5.73,False,False,False,False,False,0,73,6.71,0,True,False,22.82,2,,False,False,False,32.72,Chemicals,False,10.39,0,False
+INTU,False,False,False,9.98,False,False,False,False,False,0,103,5.51,0,False,False,16.59,2,LAG_PERF,False,False,False,11.77,Software & Services,False,1.11,0,False
+ISRG,False,False,False,13.94,False,False,False,False,False,0,55,10.58,0,True,False,29.5,1,,False,False,False,57.81,Healthcare,False,4.97,0,False
+IVZ,False,False,False,12.78,False,False,False,False,False,0,85,9.92,0,False,False,24.67,1,,False,False,False,39.63,Diversified Financials,False,1.98,0,False
+IPGP,False,False,False,3.52,False,False,False,False,False,0,53,5.15,0,False,False,11.92,0,LAG_PERF,False,False,False,3.66,Technology Hardware,False,3.25,0,False
+IQV,False,False,False,10.98,False,False,False,False,False,0,83,7.08,0,True,False,19.39,2,LAG_PERF,False,False,False,21,Pharmaceuticals,False,1.33,0,False
+IRM,False,False,False,4.29,False,False,False,False,False,0,105,5.53,0,False,False,15.14,2,LAG_PERF,False,False,False,9.3,Real Estate,False,5.32,0,False
+JKHY,False,False,False,9.71,False,False,False,False,False,0,99,5.35,0,False,False,16.31,0,LAG_PERF,False,False,False,12.11,Software & Services,False,1.24,0,False
+J,False,True,False,13.75,False,False,False,False,False,0,24,7.71,0,False,False,25.36,3,,False,False,False,42.25,Construction & Engineering,False,3.9,0,True
+JBHT,False,False,False,5.63,False,False,False,False,False,0,41,5.26,0,False,False,14.12,1,LAG_PERF,False,False,False,7.33,Transportation,False,3.22,0,False
+SJM,False,False,False,9.85,False,False,False,False,False,0,92,5.96,0,False,False,26.64,2,,False,False,False,47.21,Food Products,False,10.83,0,False
+JNJ,False,False,False,20.05,False,False,False,False,True,0,83,8.02,0,True,False,28.82,4,,False,False,False,55.27,Pharmaceuticals,False,0.74,0,False
+JCI,False,False,False,2.57,False,False,False,False,False,0,14,5.4,0,False,False,13.49,3,LAG_PERF,False,False,False,6.03,Building Products,False,5.53,0,False
+JPM,False,False,False,16.35,False,False,False,False,False,0,165,10.55,0,False,False,28,3,,False,False,False,52.24,Banks,False,1.11,0,False
+JNPR,False,False,False,9.27,False,False,False,False,False,0,53,7,0,False,False,16.65,2,LAG_PERF,False,False,False,12.96,Technology Hardware,False,0.38,0,False
+KSU,False,False,False,10.16,False,False,False,False,False,0,41,3.97,0,False,False,23.57,2,,False,False,False,35.41,Transportation,False,9.44,0,False
+K,False,False,False,14.83,False,False,False,False,False,0,92,4.74,0,True,False,27.02,2,,False,False,False,48.47,Food Products,False,7.45,0,False
+KEY,False,False,False,10.98,False,False,False,False,False,0,165,10.86,0,False,False,24.01,1,,False,False,False,37.04,Banks,False,2.18,0,False
+KEYS,False,False,False,2.24,False,False,False,False,False,0,53,5.08,0,False,False,9.35,1,,False,False,False,1.66,Technology Hardware,False,2.03,0,False
+KMB,False,False,False,7.68,False,False,False,False,False,0,27,6.42,0,True,False,22.15,2,,False,False,False,30.12,Household Products,False,8.05,0,False
+KIM,False,False,False,3.86,False,False,False,False,False,0,105,5.38,0,False,False,13.14,0,LAG_PERF,False,False,False,5.38,Real Estate,False,3.89,0,False
+KMI,False,False,False,6.09,False,False,False,False,False,0,37,3.72,0,False,False,18.36,2,LAG_PERF,False,False,False,17.95,Refiners & Pipelines,False,8.55,0,False
+KLAC,False,False,False,6.73,False,False,False,False,False,0,29,5.96,0,False,False,19.52,0,LAG_PERF,False,False,False,21.44,Semiconductors,False,6.84,0,False
+KHC,False,False,False,14.41,False,False,False,False,False,0,92,6.75,0,True,False,34.44,3,LEAD_PERF,False,False,False,74.29,Food Products,False,13.28,0,False
+KR,False,False,False,9.33,False,False,False,False,False,0,38,5.99,0,False,False,20.51,3,,False,False,False,23.5,Food Retailers,False,5.19,0,False
+LH,False,False,False,7.67,False,False,False,False,False,0,55,6.94,0,True,False,15.29,2,LAG_PERF,False,False,False,9.67,Healthcare,False,0.67,0,False
+LRCX,False,False,False,4.52,False,False,False,False,False,0,29,5.1,0,False,False,14.74,1,LAG_PERF,False,False,False,8.56,Semiconductors,False,5.11,0,False
+LVS,False,False,True,8.1,False,False,False,False,False,0,42,8.65,0,False,False,18.36,2,LAG_PERF,False,False,False,17.95,Consumer Services,False,1.61,0,False
+LEG,False,False,False,17.19,False,False,False,False,False,0,35,11.23,0,False,False,48.81,2,,False,False,False,96.48,Industrial Conglomerates,False,20.38,0,False
+LDOS,False,False,False,6.72,False,False,False,False,False,0,99,6.03,0,True,False,14.07,1,LAG_PERF,False,False,False,7.25,Software & Services,False,1.31,0,False
+LEN,False,False,False,9.33,False,False,False,False,False,0,9,5.67,0,False,False,24.53,2,,False,False,False,39,Homebuilders,False,9.53,0,False
+LLY,False,False,False,17.23,False,False,False,False,True,0,83,10.48,0,True,False,29.41,2,,False,False,False,57.44,Pharmaceuticals,False,1.7,0,False
+LNC,False,False,False,7.01,False,False,False,False,False,0,91,8.91,0,False,False,17.74,2,LAG_PERF,False,False,False,16.13,Insurance,False,1.81,0,False
+LKQ,False,False,False,5.34,False,False,False,False,False,0,57,3.73,0,False,False,13.67,2,LAG_PERF,False,False,False,6.45,Retailing,False,4.6,0,False
+LMT,False,True,False,15.95,False,False,False,False,False,0,22,7.42,0,False,False,28.64,3,,False,False,False,54.48,Aerospace & Defense,False,5.27,0,True
+L,False,False,False,3.44,False,False,False,False,False,0,85,11.4,0,False,False,15.41,1,LAG_PERF,False,False,False,9.97,Diversified Financials,False,0.57,0,False
+LOW,False,False,False,4.63,False,False,False,False,False,0,57,3.32,0,False,False,11.66,2,LAG_PERF,False,False,False,3.35,Retailing,False,3.7,0,False
+LUMN,False,False,False,12.97,False,False,False,False,False,0,66,7.7,0,False,False,25.85,2,,False,False,False,44.17,Telecommunication Services,False,5.17,0,False
+LYB,False,False,False,3.21,False,False,False,False,False,0,73,7.07,0,False,False,26.75,2,,False,False,False,47.62,Chemicals,False,16.48,0,False
+MTB,False,False,False,13.4,False,False,False,False,False,0,165,11.8,0,False,False,27.23,2,,False,False,False,49.24,Banks,False,2.02,0,False
+MRO,False,False,False,10.27,False,False,False,False,False,0,64,8.7,0,False,False,42.72,2,,False,False,False,90.65,Oil & Gas Producers,False,23.76,0,False
+MPC,False,False,False,6.71,False,False,False,False,False,0,37,5.96,0,False,False,27.72,3,,False,False,False,51.11,Refiners & Pipelines,False,15.06,0,False
+MAR,False,False,False,10.03,False,False,False,False,False,0,45,3.9,0,False,False,21.79,3,,False,False,False,27.67,Consumer Services,False,7.85,0,False
+MMC,False,False,False,8.36,False,False,False,False,False,0,91,10.72,0,False,False,19.18,2,LAG_PERF,False,False,False,20.35,Insurance,False,0.11,0,False
+MLM,False,False,False,4.9,False,False,False,False,False,0,14,8.99,0,False,False,31.78,2,LEAD_PERF,False,False,False,65.82,Construction Materials,False,17.9,0,False
+MAS,False,False,False,4.29,False,False,False,False,False,0,14,7.57,0,False,False,25.77,1,,False,False,False,43.83,Building Products,False,13.9,0,False
+MA,False,False,False,8.1,False,False,False,False,False,0,99,8.81,0,False,False,17.23,4,LAG_PERF,False,False,False,14.54,Software & Services,False,0.32,0,False
+MKC,False,False,False,14.14,False,False,False,False,False,0,92,5.32,0,False,False,28.43,2,,False,False,False,53.69,Food Products,False,8.96,0,False
+MCD,False,False,False,14.65,False,False,False,False,False,0,42,5.53,0,False,False,23.84,3,,False,False,False,36.38,Consumer Services,False,3.67,0,False
+MCK,False,False,False,8.89,False,False,False,False,False,0,60,5.36,0,False,False,16.28,4,LAG_PERF,False,False,False,10.97,Healthcare,False,2.04,0,False
+MDT,False,False,False,13.39,False,False,False,False,False,0,55,7.75,0,True,False,23.48,3,,False,False,False,35.08,Healthcare,False,2.34,0,False
+MRK,False,False,False,11.18,False,False,False,False,True,0,83,10.42,0,True,False,22.39,3,,False,False,False,31.08,Pharmaceuticals,False,0.79,0,False
+FB,False,False,False,16.63,False,False,False,False,False,0,99,10.18,0,False,False,28.03,4,,False,False,False,52.35,Software & Services,False,1.22,0,False
+MET,False,False,False,7.85,False,False,False,False,False,0,91,8.72,0,False,False,17.94,2,LAG_PERF,False,False,False,16.79,Insurance,False,1.38,0,False
+MTD,False,False,False,7.18,False,False,False,False,False,0,83,5.3,0,False,False,13.06,1,LAG_PERF,False,False,False,5.18,Pharmaceuticals,False,0.58,0,False
+MGM,False,False,True,13.08,False,False,False,False,False,0,42,11.87,0,False,False,27.96,2,,False,False,False,52.1,Consumer Services,False,3.01,0,False
+MCHP,False,False,False,9.13,False,False,False,False,False,0,29,8.46,0,False,False,31.5,1,LEAD_PERF,False,False,False,64.77,Semiconductors,False,13.91,0,False
+MU,False,False,False,4.2,False,False,False,False,False,0,29,6.41,0,False,False,17.87,2,LAG_PERF,False,False,False,16.52,Semiconductors,False,7.26,0,False
+MSFT,False,False,False,8.06,False,False,False,False,False,0,99,4.73,0,False,False,13.26,3,LAG_PERF,False,False,False,5.64,Software & Services,False,0.46,0,False
+MAA,False,False,False,7.12,False,False,False,False,False,0,105,5.5,0,False,False,18.65,1,LAG_PERF,False,False,False,18.85,Real Estate,False,6.03,0,False
+MHK,False,False,False,4.15,False,False,False,False,False,0,19,4.27,0,False,False,13.75,2,LAG_PERF,False,False,False,6.63,Consumer Durables,False,5.32,0,False
+TAP,False,False,False,7.35,False,False,True,False,False,0,92,5.38,0,True,False,18.7,2,LAG_PERF,False,False,False,19,Food Products,False,5.97,0,False
+MDLZ,False,False,False,10.78,False,False,False,False,False,0,92,5.16,0,True,False,23.39,3,,False,False,False,34.72,Food Products,False,7.45,0,False
+MNST,False,False,False,10.72,False,False,False,False,False,0,92,5.11,0,False,False,28.26,2,,False,False,False,53.01,Food Products,False,12.43,0,False
+MCO,False,False,False,5.86,False,False,False,False,False,0,85,5.76,0,False,False,11.66,2,LAG_PERF,False,False,False,3.34,Diversified Financials,False,0.03,0,False
+MS,False,False,False,11.96,False,False,False,False,False,0,85,10.08,0,False,False,22.76,3,,False,False,False,32.47,Diversified Financials,False,0.72,0,False
+MOS,False,False,False,12.03,False,False,False,False,False,0,73,8.42,0,False,False,36.37,2,LEAD_PERF,False,False,False,79.55,Chemicals,False,15.92,0,False
+MSI,False,False,False,7.4,False,False,False,False,False,0,53,5.3,0,False,False,14.62,3,LAG_PERF,False,False,False,8.34,Technology Hardware,False,1.93,0,False
+MSCI,False,False,False,5.41,False,False,False,False,False,0,85,5.39,0,False,False,12.41,1,LAG_PERF,False,False,False,4.28,Diversified Financials,False,1.61,0,False
+NDAQ,False,False,False,4.56,False,False,False,False,False,0,85,5.36,0,False,False,11.73,2,LAG_PERF,False,False,False,3.41,Diversified Financials,False,1.81,0,False
+NTAP,False,False,False,7.59,False,False,False,False,False,0,53,6.18,0,False,False,16.44,0,LAG_PERF,False,False,False,12.44,Technology Hardware,False,2.67,0,False
+NFLX,False,False,False,6.75,False,False,False,False,False,0,36,9.92,0,False,False,16.79,2,LAG_PERF,False,False,False,13.39,Media,False,0.12,0,False
+NWL,False,False,False,5.3,False,False,False,False,True,0,19,4.16,0,False,False,15.87,2,LAG_PERF,False,False,False,10.99,Consumer Durables,False,6.41,0,False
+NEM,False,False,False,9.94,False,False,False,False,False,0,15,5.05,0,False,False,23.22,3,,False,False,False,34.12,Precious Metals,False,8.24,0,False
+NWSA,False,False,False,5.72,False,False,False,False,False,0,36,7.49,0,False,False,13.29,2,LAG_PERF,False,False,False,5.72,Media,False,0.08,0,False
+NEE,False,False,False,8.17,True,False,False,False,False,0,103,5.81,0,False,False,26.93,2,,True,False,False,48.13,Utilities,False,12.93,0,False
+NLSN,False,False,False,16.9,False,False,False,False,False,0,31,6.02,0,False,False,22.98,1,,False,False,False,33.27,Commercial Services,False,0.06,0,False
+NKE,False,False,False,5.61,False,False,False,False,False,0,18,7.28,0,False,False,15.38,3,LAG_PERF,False,False,False,9.86,Textiles & Apparel,False,2.48,0,False
+NI,False,False,False,9.66,False,False,False,False,False,0,103,5.35,0,False,False,30.43,3,LEAD_PERF,True,False,False,61.05,Utilities,False,15.42,0,False
+NSC,False,False,False,12.37,False,False,False,False,False,0,41,3.44,0,False,False,24.42,2,,False,False,False,38.61,Transportation,False,8.61,0,False
+NTRS,False,False,False,12.55,False,False,False,False,False,0,85,10.33,0,False,False,25.13,2,,False,False,False,41.29,Diversified Financials,False,2.24,0,False
+NOC,False,True,False,16.79,False,False,False,False,False,0,22,4.76,0,False,False,30.3,3,LEAD_PERF,False,False,False,60.71,Aerospace & Defense,True,8.74,0,True
+NLOK,False,False,False,10.55,False,False,False,False,False,0,99,4.95,0,False,False,16.66,2,LAG_PERF,False,False,False,13,Software & Services,False,1.17,0,False
+NCLH,False,False,False,10.97,False,False,False,False,False,0,42,4.47,0,False,False,27.99,2,,False,False,False,52.18,Consumer Services,False,12.54,0,False
+NRG,False,False,False,8.95,False,False,False,False,False,0,103,5.55,0,False,False,31.75,2,LEAD_PERF,True,False,False,65.68,Utilities,False,17.26,0,False
+NUE,False,False,False,16.02,False,False,False,False,False,0,23,9.73,0,False,False,36.63,2,LEAD_PERF,False,False,False,80.34,Steel,False,10.88,0,False
+NVDA,False,False,False,4.11,False,False,False,False,False,0,29,6.13,0,False,False,12.77,2,LAG_PERF,False,False,False,4.74,Semiconductors,False,2.53,0,False
+NVR,False,False,False,8.68,False,False,False,False,False,0,9,5.86,0,False,False,23.51,2,,False,False,False,35.2,Homebuilders,False,8.96,0,False
+NXPI,False,False,False,6.61,False,False,False,False,False,0,33,5.07,0,False,False,19.86,1,LAG_PERF,False,False,False,21.22,Semiconductors,False,8.18,0,False
+ORLY,False,False,False,8.89,False,False,False,False,False,0,57,4.06,0,False,False,13.12,1,LAG_PERF,False,False,False,5.32,Retailing,False,0.16,0,False
+OXY,False,False,False,10.85,False,False,False,False,False,0,64,6.75,0,False,False,37.6,2,LEAD_PERF,False,False,False,82.3,Oil & Gas Producers,False,20,0,False
+OMC,False,False,False,10.52,False,False,False,False,False,0,36,7.87,0,False,False,18.46,2,LAG_PERF,False,False,False,18.27,Media,False,0.07,0,False
+OKE,False,False,False,8.13,False,False,False,False,False,0,37,3.4,0,False,False,25.36,1,,False,False,False,42.24,Refiners & Pipelines,False,13.83,0,False
+ORCL,False,False,False,10.58,False,False,False,False,False,0,99,6.84,0,False,False,17.84,2,LAG_PERF,False,False,False,16.44,Software & Services,False,0.43,0,False
+PCAR,False,False,False,11.28,False,False,False,False,False,0,53,8.56,0,False,False,28.14,3,,False,False,False,52.69,Machinery,False,8.3,0,False
+PKG,False,False,False,1.41,False,False,False,False,False,0,11,3.75,0,False,False,14.05,2,LAG_PERF,False,False,False,7.22,Containers & Packaging,False,8.89,0,False
+PH,False,False,False,12.09,False,False,False,False,False,0,53,7.26,0,False,False,27.65,2,,False,False,False,50.84,Machinery,False,8.3,0,True
+PAYX,False,False,False,9.81,False,False,False,False,False,0,99,6.1,0,False,False,17.08,0,LAG_PERF,False,False,False,14.12,Software & Services,False,1.17,0,False
+PYPL,False,False,False,9.39,False,False,False,False,False,0,99,6.07,0,False,False,16.2,2,LAG_PERF,False,False,False,11.84,Software & Services,False,0.74,0,False
+PNR,False,False,False,13.7,False,False,False,False,False,0,53,6.59,0,False,False,29.4,1,,False,False,False,57.38,Machinery,False,9.12,0,False
+PBCT,False,False,False,12.16,False,False,False,False,False,0,165,9.78,0,False,False,23.77,2,,False,False,False,36.06,Banks,False,1.82,0,False
+PEP,False,False,False,7.79,False,False,False,False,False,0,92,4.55,0,True,False,17.41,3,LAG_PERF,False,False,False,14.98,Food Products,False,5.07,0,False
+PKI,False,False,False,10.65,False,False,False,False,True,0,83,6.25,0,True,False,18.19,2,LAG_PERF,False,False,False,17.46,Pharmaceuticals,False,1.28,0,False
+PFE,False,False,False,13.07,False,False,False,False,True,0,83,9.63,0,True,False,24.53,3,,False,False,False,39,Pharmaceuticals,False,1.82,0,False
+PM,False,False,False,11.32,False,False,False,False,False,0,92,8.75,0,True,True,23.85,3,,False,False,False,36.39,Food Products,False,3.79,0,False
+PSX,False,False,False,8.08,False,False,False,False,False,0,37,5.54,0,False,False,32.87,3,LEAD_PERF,False,False,False,69.39,Refiners & Pipelines,False,19.25,0,False
+PNW,False,False,False,9.17,True,False,False,False,False,0,103,6.1,0,False,False,26.3,2,,True,False,False,45.97,Utilities,False,11.02,0,False
+PXD,False,False,False,9.14,False,False,False,False,False,0,71,8.8,0,False,False,33.08,1,LEAD_PERF,False,False,False,68.72,Oil & Gas Producers,False,15.15,0,False
+PNC,False,False,False,12.39,False,False,False,False,False,0,165,8.3,0,False,False,22.46,3,,False,False,False,31.34,Banks,False,1.77,0,False
+PPG,False,False,False,7.69,False,False,False,False,False,0,73,7.41,0,True,False,24.42,1,,False,False,False,38.63,Chemicals,False,9.32,0,False
+PPL,False,False,False,8.37,False,False,False,False,False,0,103,5.51,0,False,False,33.59,2,LEAD_PERF,True,False,False,71.67,Utilities,False,19.71,0,False
+PFG,False,False,False,7.63,False,False,False,False,False,0,91,10.5,0,False,False,20.24,1,,False,False,False,23.74,Insurance,False,2.11,0,False
+PG,False,False,False,10.31,False,False,False,False,False,0,27,7.36,0,True,False,26.97,3,,False,False,False,48.27,Household Products,False,9.31,0,False
+PGR,False,False,False,9.52,False,False,False,False,False,0,91,11.93,0,False,False,23.19,2,,False,False,False,34.03,Insurance,False,1.75,0,False
+PLD,False,False,False,3.38,False,False,False,False,False,0,105,4.23,0,False,False,10.05,1,LAG_PERF,False,False,False,1.93,Real Estate,False,2.44,0,False
+PRU,False,False,False,7.33,False,False,False,False,False,0,91,9.06,0,False,False,17.44,2,LAG_PERF,False,False,False,15.13,Insurance,False,1.05,0,False
+PTC,False,False,False,12.72,False,False,False,False,False,0,99,5.66,0,False,False,19.62,2,LAG_PERF,False,False,False,21.83,Software & Services,False,1.24,0,False
+PEG,False,False,False,8.66,True,False,False,False,False,0,103,5.74,0,False,False,28.94,2,,True,False,False,55.67,Utilities,False,14.53,0,False
+PSA,False,False,False,2.55,False,False,False,False,False,0,105,5.24,0,False,False,12.3,1,LAG_PERF,False,False,False,4.13,Real Estate,False,4.51,0,False
+PHM,False,False,False,9.03,False,False,False,False,False,0,9,5.43,0,False,False,23.72,2,,False,False,False,35.9,Homebuilders,False,9.26,0,False
+PVH,False,False,False,9.14,False,False,False,False,False,0,18,5.28,0,False,False,15.59,3,LAG_PERF,False,False,False,10.31,Textiles & Apparel,False,1.17,0,False
+QRVO,False,False,False,8.91,False,False,False,False,False,0,29,7.19,0,False,False,32.18,0,LEAD_PERF,False,False,False,67.15,Semiconductors,False,16.08,0,False
+PWR,False,False,False,17.12,False,False,False,False,False,0,24,10.35,0,False,False,36.26,2,LEAD_PERF,False,False,False,79.26,Construction & Engineering,False,8.79,0,False
+QCOM,False,False,False,3.49,False,False,False,False,False,0,29,8.64,0,False,False,18.47,4,LAG_PERF,False,False,False,18.31,Semiconductors,False,6.34,0,False
+DGX,False,False,False,10.08,False,False,False,False,False,0,55,8.65,0,False,False,18.85,3,LAG_PERF,False,False,False,19.33,Healthcare,False,0.12,0,False
+RL,False,False,False,6.63,False,False,False,False,False,0,18,5.65,0,False,False,13.57,2,LAG_PERF,False,False,False,6.29,Textiles & Apparel,False,1.29,0,False
+RJF,False,False,False,12.94,False,False,False,False,False,0,85,12.3,0,False,False,27.16,2,,False,False,False,48.98,Diversified Financials,False,1.92,0,False
+O,False,False,False,5.46,False,False,False,False,False,0,105,4.73,0,False,False,14.23,0,LAG_PERF,False,False,False,7.6,Real Estate,False,4.04,0,False
+REG,False,False,False,3.57,False,False,False,False,False,0,105,4.66,0,False,False,11.93,0,LAG_PERF,False,False,False,3.67,Real Estate,False,3.7,0,False
+REGN,False,False,False,13.18,False,False,False,False,True,0,83,7.33,0,True,False,20.54,2,,False,False,False,24.76,Pharmaceuticals,False,0.03,0,False
+RF,False,False,False,9.8,False,False,False,False,False,0,165,7.84,0,False,False,19.4,2,LAG_PERF,False,False,False,21.01,Banks,False,1.76,0,False
+RSG,False,False,False,6.01,False,False,False,False,False,0,31,3.38,0,False,False,21.07,3,,False,False,False,26.52,Commercial Services,False,11.69,0,False
+RMD,False,False,False,12.5,False,False,False,False,False,0,55,10.53,0,True,False,26.65,1,,False,False,False,47.23,Healthcare,False,3.62,0,False
+RHI,False,False,False,5.76,False,False,False,False,False,0,31,3.56,0,False,False,9.39,1,,False,False,False,1.67,Commercial Services,False,0.07,0,False
+ROK,False,False,False,7.3,False,False,False,False,False,0,17,5.88,0,False,False,19.49,1,LAG_PERF,False,False,False,21.31,Electrical Equipment,False,6.31,0,False
+ROL,False,False,False,11.57,False,False,False,False,False,0,31,6.8,0,False,False,20.21,0,,False,False,False,23.61,Commercial Services,False,1.83,0,False
+ROP,False,False,False,13.72,False,False,False,False,False,0,99,5.44,0,False,False,20.28,0,,False,False,False,23.91,Software & Services,False,1.13,0,False
+ROST,False,False,False,8,False,False,False,False,False,0,57,5.73,0,False,False,15.32,2,LAG_PERF,False,False,False,9.77,Retailing,False,1.6,0,False
+RCL,False,False,False,8.04,False,False,False,False,False,0,42,4.16,0,False,False,21.34,3,,False,False,False,27.36,Consumer Services,False,9.14,0,False
+SPGI,False,False,False,5.77,False,False,False,False,False,0,94,5.37,0,False,False,12.71,1,LAG_PERF,False,False,False,4.13,Diversified Financials,False,1.57,0,False
+CRM,False,False,False,6.56,False,False,False,False,False,0,99,4.25,0,False,False,11.25,2,LAG_PERF,False,False,False,2.91,Software & Services,False,0.44,0,False
+SBAC,False,False,False,5.98,False,False,False,False,False,0,105,5.35,0,False,False,14.74,0,LAG_PERF,False,False,False,8.58,Real Estate,False,3.41,0,False
+SLB,False,False,False,9.82,False,False,False,False,False,0,10,6.7,0,False,False,23.82,1,,False,False,False,36.26,Energy Services,False,7.31,0,False
+STX,False,False,False,3.8,False,False,False,False,False,0,55,5.26,0,False,False,10.66,1,LAG_PERF,False,False,False,2.13,Technology Hardware,False,1.59,0,False
+SEE,False,False,False,2.53,False,False,False,False,False,0,11,3.56,0,False,False,20.03,2,,False,False,False,23.04,Containers & Packaging,False,13.92,0,False
+SRE,False,False,False,9.26,False,False,False,False,False,0,103,5.58,0,False,False,30.17,3,LEAD_PERF,False,False,False,60.21,Utilities,False,15.33,0,False
+NOW,False,False,False,9.18,False,False,False,False,False,0,99,6.2,0,False,False,16.84,1,LAG_PERF,False,False,False,13.49,Software & Services,False,1.46,0,False
+SHW,False,False,False,11.06,False,False,False,False,False,0,73,5.96,0,True,False,29.41,2,,False,False,False,57.41,Chemicals,False,12.4,0,False
+SPG,False,False,False,4.33,False,False,False,False,False,0,105,5.88,0,False,False,14.72,1,LAG_PERF,False,False,False,8.53,Real Estate,False,4.51,0,False
+SWKS,False,False,False,9.51,False,False,False,False,False,0,29,8.5,0,False,False,32.93,0,LEAD_PERF,False,False,False,69.57,Semiconductors,False,14.92,0,False
+SNA,False,False,False,13.58,False,False,False,False,False,0,53,7.57,0,False,False,30.54,1,LEAD_PERF,False,False,False,61.46,Machinery,False,9.39,0,False
+SO,False,False,False,10.95,True,False,False,False,False,0,103,6.89,0,False,False,33.51,2,LEAD_PERF,True,False,False,71.45,Utilities,False,15.68,0,False
+LUV,False,False,False,15.24,False,False,False,False,False,0,47,5.66,0,False,False,31.03,2,LEAD_PERF,False,False,False,61.62,Transportation,False,10.14,0,False
+SWK,False,False,False,12.55,False,False,False,False,False,0,53,8.3,0,False,False,26.57,1,,False,False,False,46.96,Machinery,False,5.72,0,False
+SBUX,False,False,False,13.49,False,False,False,False,False,0,42,4.32,0,False,False,21.2,2,,False,False,False,26.88,Consumer Services,False,3.39,0,False
+STT,False,False,False,12.43,False,False,False,False,False,0,94,8.52,0,False,False,22.5,2,,False,False,False,30.16,Diversified Financials,False,1.56,0,False
+SYK,False,False,False,14.83,False,False,False,False,False,0,55,11.86,0,True,False,30.9,3,LEAD_PERF,False,False,False,62.82,Healthcare,False,4.21,0,False
+SIVB,False,False,False,12.92,False,False,False,False,False,0,165,14.11,0,False,False,29.13,0,,False,False,False,56.41,Banks,False,2.11,0,False
+SYF,False,False,False,11.5,False,False,False,False,False,0,94,7.02,0,False,False,18.63,1,LAG_PERF,False,False,False,17.53,Diversified Financials,False,0.11,0,False
+SNPS,False,False,False,9.07,False,False,False,False,False,0,99,4.19,0,False,False,14.35,0,LAG_PERF,False,False,False,7.8,Software & Services,False,1.1,0,False
+SYY,False,False,False,5.03,False,False,False,False,False,0,33,4.74,0,False,False,12.14,2,LAG_PERF,False,False,False,3.88,Food Retailers,False,2.36,0,False
+TMUS,False,False,False,13.39,False,False,False,False,False,0,66,7.31,0,False,False,23.41,3,,False,False,False,34.8,Telecommunication Services,False,2.72,0,False
+TROW,False,False,False,11.79,False,False,False,False,False,0,85,5.78,0,False,False,19.5,2,LAG_PERF,False,False,False,21.37,Diversified Financials,False,1.94,0,False
+TPR,False,False,False,7.46,False,False,False,False,False,0,18,4.91,0,False,False,13.52,2,LAG_PERF,False,False,False,6.13,Textiles & Apparel,False,1.16,0,False
+TGT,False,False,False,7.63,False,False,False,False,False,0,57,5.34,0,False,False,15.04,3,LAG_PERF,False,False,False,9.16,Retailing,False,2.08,0,False
+TEL,False,False,False,4.53,False,False,False,False,False,0,53,4.93,0,False,False,16.11,1,LAG_PERF,False,False,False,11.54,Technology Hardware,False,6.65,0,False
+TFX,False,False,False,16.53,False,False,False,False,False,0,55,7.72,0,True,False,29.06,2,,False,False,False,56.18,Healthcare,False,4.8,0,False
+TER,False,False,False,6,False,False,False,False,False,0,29,5.78,0,False,False,18.74,0,LAG_PERF,False,False,False,19.09,Semiconductors,False,6.97,0,False
+TSLA,False,False,False,17.31,False,False,False,False,False,0,37,10.2,0,False,False,30.46,3,LEAD_PERF,False,False,False,61.16,Automobiles,False,2.95,0,False
+TXN,False,False,False,5.02,False,False,False,False,False,0,29,6.47,0,False,False,20.28,2,,False,False,False,23.88,Semiconductors,False,8.8,0,False
+TXT,False,True,False,18.2,False,False,False,False,False,0,22,7.63,0,False,False,35.64,2,LEAD_PERF,False,False,False,77.66,Aerospace & Defense,True,9.8,0,True
+TMO,False,False,False,6.03,False,False,False,False,True,0,83,6.46,0,True,False,14.01,3,LAG_PERF,False,False,False,7.1,Pharmaceuticals,False,1.52,0,False
+TJX,False,False,False,7.19,False,False,False,False,False,0,57,5.61,0,False,False,14.82,2,LAG_PERF,False,False,False,8.69,Retailing,False,2.03,0,False
+TSCO,False,False,False,6.58,False,False,False,False,False,0,57,4.26,0,False,False,13.73,2,LAG_PERF,False,False,False,6.56,Retailing,False,2.89,0,False
+TT,False,False,False,3.18,False,False,False,False,False,0,14,5.19,0,False,False,16.23,2,LAG_PERF,False,False,False,11.88,Building Products,False,7.87,0,False
+TDG,False,False,False,19.84,False,False,False,False,False,0,22,8.48,0,False,False,39.54,2,LEAD_PERF,False,False,False,85.74,Aerospace & Defense,False,11.21,0,True
+TRV,False,False,False,7.04,False,False,False,False,False,0,98,10.68,0,False,False,18.84,1,LAG_PERF,False,False,False,18.04,Insurance,False,1.12,0,False
+TRMB,False,False,False,3.72,False,False,False,False,False,0,53,5.94,0,False,False,12.83,0,LAG_PERF,False,False,False,4.82,Technology Hardware,False,3.17,0,False
+TWTR,False,False,False,10.06,False,False,False,False,False,0,99,7.36,0,False,False,19.97,3,LAG_PERF,False,False,False,22.78,Software & Services,False,2.55,0,False
+TSN,False,False,False,13.47,False,False,False,False,False,0,92,10.18,0,False,False,36.56,4,LEAD_PERF,False,False,False,80.18,Food Products,False,12.91,0,False
+UDR,False,False,False,4.23,False,False,False,False,False,0,105,5.46,0,False,False,13.45,0,LAG_PERF,False,False,False,5.95,Real Estate,False,3.77,0,False
+ULTA,False,False,False,7.36,False,False,False,False,False,0,57,5.92,0,False,False,17.03,1,LAG_PERF,False,False,False,13.96,Retailing,False,3.74,0,False
+USB,False,False,False,15.85,False,False,False,False,False,0,165,12.44,0,False,False,30,3,LEAD_PERF,False,False,False,59.64,Banks,False,1.71,0,False
+UAA,False,False,False,8.03,False,False,False,False,False,0,57,6.14,0,False,False,16.01,2,LAG_PERF,False,False,False,11.26,Retailing,False,1.84,0,False
+UNP,False,False,False,12.14,False,False,False,False,False,0,41,3.6,0,False,False,25.17,2,,False,False,False,41.53,Transportation,False,9.43,0,False
+UAL,False,False,False,13.61,False,False,False,False,False,0,41,5.54,0,False,False,30.43,2,LEAD_PERF,False,False,False,61.04,Transportation,False,11.28,0,False
+UNH,False,False,False,14.23,False,False,False,False,True,0,55,5.91,0,False,False,20.19,3,,False,False,False,23.54,Healthcare,False,0.03,0,False
+UPS,False,False,False,9.23,False,False,False,False,False,0,41,5.68,0,False,False,20.5,3,,False,False,False,24.68,Transportation,False,5.59,0,False
+URI,False,False,False,6.52,False,False,False,False,False,0,17,5.93,0,False,False,16.81,1,LAG_PERF,False,False,False,13.41,Traders & Distributors,False,4.36,0,False
+UHS,False,False,False,18.75,False,False,False,False,True,0,55,8.82,0,False,False,30.9,3,LEAD_PERF,False,False,False,62.81,Healthcare,False,3.33,0,False
+VLO,False,False,False,6.87,False,False,False,False,False,0,39,5.41,0,False,False,28.4,3,,False,False,False,51.79,Refiners & Pipelines,False,16.12,0,False
+VTR,False,False,False,4.03,False,False,False,False,True,0,105,4.48,0,False,False,11.91,0,LAG_PERF,False,False,False,3.65,Real Estate,False,3.4,0,False
+VRSN,False,False,False,12.87,False,False,False,False,False,0,99,6.28,0,False,False,22.19,1,,False,False,False,30.31,Software & Services,False,3.04,0,False
+VRSK,False,False,False,14.84,False,False,False,False,False,0,31,6.46,0,False,False,21.4,1,,False,False,False,27.54,Commercial Services,False,0.11,0,False
+VZ,False,False,False,10.2,False,False,False,False,False,0,66,6,0,False,False,17.91,3,LAG_PERF,False,False,False,16.69,Telecommunication Services,False,1.71,0,False
+VRTX,False,False,False,17.22,False,False,False,False,True,0,83,7.68,0,True,False,25.05,2,,False,False,False,41.01,Pharmaceuticals,False,0.15,0,False
+VFC,False,False,False,6.83,False,False,False,False,False,0,18,4.96,0,False,False,12.73,2,LAG_PERF,False,False,False,4.68,Textiles & Apparel,False,0.94,0,False
+V,False,False,False,7.84,False,False,False,False,False,0,99,7.51,0,False,False,16.06,3,LAG_PERF,False,False,False,11.41,Software & Services,False,0.71,0,False
+VNO,False,False,False,4.25,False,False,False,False,False,0,105,6.12,0,False,False,13.13,1,LAG_PERF,False,False,False,5.37,Real Estate,False,2.75,0,False
+VMC,False,False,False,5.17,False,False,False,False,False,0,14,8.87,0,False,False,29.03,2,,False,False,False,56.06,Construction Materials,False,15,0,False
+WRB,False,False,False,7.59,False,False,False,False,False,0,91,14.67,0,False,False,24.31,1,,False,False,False,38.19,Insurance,False,2.04,0,False
+WAB,False,False,False,14.08,False,False,False,False,False,0,53,7.7,0,False,False,32.18,1,LEAD_PERF,False,False,False,67.18,Machinery,False,10.41,0,False
+WMT,False,False,False,17.32,False,False,False,False,False,0,33,6.51,0,False,False,27.23,4,,False,False,False,49.23,Food Retailers,False,3.4,0,False
+WBA,False,False,False,11.52,False,False,False,False,False,0,33,4.73,0,False,False,18.38,3,LAG_PERF,False,False,False,18.01,Food Retailers,False,2.13,0,False
+DIS,False,False,False,7.06,False,False,False,False,False,0,36,7.77,0,False,False,14.89,2,LAG_PERF,False,False,False,8.85,Media,False,0.07,0,False
+WM,False,False,False,3.61,False,False,False,False,False,0,33,3.58,0,False,False,14.89,2,LAG_PERF,False,False,False,8.05,Commercial Services,False,7.69,0,False
+WAT,False,False,False,10.67,False,False,False,False,False,0,83,6.14,0,True,False,18.29,0,LAG_PERF,False,False,False,17.74,Pharmaceuticals,False,1.48,0,False
+WEC,False,False,False,9.24,True,False,False,False,False,0,103,5.43,0,False,False,32.53,1,LEAD_PERF,True,False,False,68.31,Utilities,False,17.85,0,False
+WFC,False,False,False,16.15,False,False,False,False,False,0,165,15.64,0,False,False,33.1,5,LEAD_PERF,False,False,False,70.11,Banks,False,1.31,0,False
+WELL,False,False,False,3.2,False,False,False,False,False,0,105,4.64,0,False,False,11.31,1,LAG_PERF,False,False,False,2.97,Real Estate,False,3.47,0,False
+WDC,False,False,False,4.15,False,False,False,False,False,0,53,5.6,0,False,False,12.03,1,LAG_PERF,False,False,False,3.78,Technology Hardware,False,2.28,0,False
+WU,False,False,False,7.02,False,False,False,False,False,0,99,5.93,0,False,False,14.24,3,LAG_PERF,False,False,False,7.63,Software & Services,False,1.29,0,False
+WY,False,False,False,3.44,False,False,False,False,False,0,9,4,0,False,False,17.27,2,LAG_PERF,True,False,False,14.66,Paper & Forestry,False,9.83,0,False
+WHR,False,False,False,6.83,False,False,False,False,False,0,19,4.61,0,False,False,18.17,2,LAG_PERF,False,False,False,17.39,Consumer Durables,False,6.74,0,False
+WMB,False,False,False,8.52,False,False,False,False,False,0,37,3.2,0,False,False,20.7,2,,False,False,False,25.22,Refiners & Pipelines,False,8.98,0,False
+WLTW,False,False,False,10.3,False,False,False,False,False,0,91,10.3,0,False,False,20.73,2,,False,False,False,25.33,Insurance,False,0.13,0,False
+WYNN,False,False,True,11.69,False,False,False,False,False,0,42,11.54,0,False,False,27.38,3,,False,False,False,49.73,Consumer Services,False,4.16,0,False
+XEL,False,False,False,8.73,True,False,False,False,False,0,103,4.36,0,False,False,29.35,1,,True,False,False,57.17,Utilities,False,16.26,0,False
+XLNX,False,False,False,6.25,False,False,False,False,False,0,29,7.88,0,False,False,18.93,1,LAG_PERF,False,False,False,19.58,Semiconductors,False,4.8,0,False
+XYL,False,False,False,7.93,False,False,False,False,False,0,53,5.11,0,False,False,16.57,2,LAG_PERF,False,False,False,12.83,Machinery,False,3.53,0,False
+YUM,False,False,False,12.9,False,False,False,False,False,0,42,4.8,0,False,False,21.69,3,,False,False,False,28.47,Consumer Services,False,3.99,0,False
+ZBH,False,False,False,13.62,False,False,False,False,False,0,55,9.93,0,True,False,28.08,2,,False,False,False,52.49,Healthcare,False,4.53,0,False
+ZTS,False,False,False,7.7,False,False,False,False,False,0,83,9.19,0,True,False,18.27,1,LAG_PERF,False,False,False,17.69,Pharmaceuticals,False,1.38,0,False
